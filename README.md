@@ -1,5 +1,5 @@
 # Order list
-* Greed
+* Grid
 * Filter
 * Pagination
 * Sorting
